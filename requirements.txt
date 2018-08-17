@@ -1,0 +1,4 @@
+flask
+click
+google-cloud-dns
+google-cloud-datastore
